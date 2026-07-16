@@ -1,15 +1,14 @@
 # NYC Yellow Taxi: EDA & Tip-Prediction Model Comparison (R)
 
 [![R](https://img.shields.io/badge/R-4.4.0-276DC3?logo=r&logoColor=white)](https://www.r-project.org/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-20BEFF?logo=kaggle&logoColor=white)](KAGGLE_NOTEBOOK_LINK_HERE)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/code/mohammedthaqee/r-analysis)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 An end-to-end R analysis of NYC Yellow Taxi trip data (January 2023): exploratory data
 analysis of fares, tips, and ride patterns, followed by a comparison of five regression models
-plus an LSTM network for predicting tip amount. Originally developed on Kaggle; also written
-up as an academic-style paper (included in `docs/`).
+plus an LSTM network for predicting tip amount. Originally developed on Kaggle.
 
-> 📓 Originally written and run on Kaggle — see the [live Kaggle notebook](KAGGLE_NOTEBOOK_LINK_HERE).
+> 📓 Originally written and run on Kaggle — see the [live Kaggle notebook](https://www.kaggle.com/code/mohammedthaqee/r-analysis).
 
 ## What's inside
 
